@@ -266,7 +266,7 @@ for inputs, labels in test_loader:
     num_correct += np.sum(correct)
 
 
-# -- stats! -- ##
+# -- stats -- ##
 # avg test loss
 
 print("Test data predictions !!!!!")
